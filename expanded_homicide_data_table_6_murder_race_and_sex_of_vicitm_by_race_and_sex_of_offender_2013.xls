@@ -1,0 +1,624 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us">
+<head>
+<base href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls"/><title>FBI — Expanded Homicide Data Table 6</title>
+<meta charset="utf-8"/>
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<meta name="viewport" content="width=940px, initial-scale=1.0"/>
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"/>
+<link rel="apple-touch-icon" href="img/touch_icon.png"/>
+<link rel="stylesheet" href="/css/bbb/plone-base.css?v=116"/>
+<link rel="stylesheet" href="/css/plone.css?v=115"/>
+<link rel="stylesheet" href="/css/index.css?v=119"/>
+<link rel="stylesheet" href="/css/bbb/ucr-styles.css?v=115"/>
+<link rel="stylesheet" href="/css/bbb/bbb.css?v=114"/>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/><meta name="generator" content="Plone - http://plone.org"/><meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8"/><meta name="modificationDate" content="2014/11/03"/><meta name="creationDate" content="2014/08/29"/><meta name="publicationDate" content="2014/09/27"/><meta name="expirationDate"/><meta name="portalType" content="ExcelFile"/><meta name="mobileEnabled"/><meta name="location" content=""/><meta name="contentType" content="text/plain"/><meta property="og:title" content="Expanded Homicide Data Table 6"/><meta property="og:type" content="article"/><meta property="og:url" content="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls"/><meta property="og:image" content="https://ucr.fbi.gov/fbi_seal_mini.png"/><meta property="og:site_name" content="FBI"/><meta property="og:description" content=""/><meta http-equiv="imagetoolbar" content="no"/><style>#ucr-main #maincolumn #primary-items li,#ucr-main #maincolumn.threeacross #primary-items li,#ucr-main #maincolumn #primary-items li#ok,#ucr-main #page_content #col_2 #ab_wrapper .col_header,#ucr-main #page_content #col_2 #ab_wrapper .col_header2{background-color:#00427A;border-bottom:4px solid #00427A;color:#000000;}#ucr-main #maincolumn #primary-items li a{color:#000000;}#ucr-main #maincolumn #sub-items .subitem,#ucr-main #maincolumn #sub-items .subitemlast{background-color:#B0B0B0;color:#010101;}#ucr-main h1 a,#ucr-main h2 a,#ucr-main h3 a,#ucr-main #main-area p a.data,#ucr-main #page_content #col_1 #content_main h1,#ucr-main #page_content h1.top-header,#ucr-main #additional_data h2,#ucr-main #quick_finds h2,#ucr-main #top-navigation h2 a,#ucr-main .supporting_info a{color:#000000!important;}#ucr-right{background-color:#B0B0B0;}#ucr-main #quick_finds .qfind_item a{color:#666666;}#ucr-main #quick_finds .qfind_item a:hover{color:#000000;}#ucr-navigation{background-color:#000000;}#ucr-navigation a{color:#FFFFFF;}#ucr-navigation li.selected{background-color:#000000;}#ucr-main #page_content #col_1 #content_sub h2{color:#1B528E;background-color:#dbdad8;}#dataheader{background-color:#000000;color:#FEEC62;}#ucr-main #additional_data h2,#ucr-main .additional_data h2{background-color:#B0B0B0;}#ucr-main #maincolumn #primary-items li a:hover{color:#FEEC63;}#ucr-main #page_content #col_2 #ab_wrapper .col_header,#ucr-main #page_content #col_2 #ab_wrapper .col_header2{color:#FFFFFF;}#page_content a{color:#000000!important;}</style><style>#ucr-main #page_content h1.top-header{line-height:32px;}#ucr-main #page_content #col_2 #ab_wrapper ul{list-style:none}#datalinks{padding:10px 20px 18px 0}#datalinks ul{margin:0px 0 15px 0px;}#ucr-navigation{margin-top:-6px;}h2.blue-header{color:#000000;}#ucr-main #page_content #col_1 #content_main h1,#ucr-main #page_content h1.top-header{font-size:20px;font-style:normal;margin-bottom:10px;margin-top:-5px;}#ucr-main #page_content #col_2{float:left;height:100%;padding:49px 0 0 0;width:410px;}#ucr-main #page_content #col_2 #ab_wrapper .col_header,#ucr-main #page_content #col_2 #ab_wrapper .col_header2{border:none;height:23px;color:B0B0B0;}#ucr-main #page_content #col_2 #ab_wrapper{background:none;margin-top:0;min-height:100%;border:none!important;width:203px;}#ucr-main #page_content #col_2 #ab_wrapper #col_a{background-color:#DBDAD9;width:203px;}#ucr-main #page_content #col_2 #ab_wrapper .col_header{margin:0;}#ucr-main #page_content #col_2 #ab_wrapper ul li a{font-weight:bold;}#ucr-main #page_content #col_2 #ab_wrapper ul{list-style:none;list-style-type:none;list-style-image:none;}#ucr-navigation li{font-size:12px;font-weight:bold;height:30px;padding:11px 11px 0 11px;}#ucr-main #page_content #col_2 #ab_wrapper li{background:url("arrow_col_a_blk.gif") no-repeat scroll 0 5px transparent;}#ucr-main #page_content .header-container{padding:10px 20px 0 10px;}#nav_return{display:none;}.discreet{color:black;}#ucr-main #page_content{background:url("/about-us/cjis/ucr/crime-in-the-u.s/2013/preliminary-semiannual-uniform-crime-report-january-june-2013/page_content2.jpg") repeat-x scroll 0 0 #FFFFFF!important;}table.data tbody th.odd,table.data tbody td.odd{background:none repeat scroll 0 0 #edeff0;border-left:1px solid #FFFFFF;}table.data tbody th.even,table.data tbody td.even{background:none repeat scroll 0 0 #cacccc;border-bottom:1px solid #FFFFFF;}table.data thead th.odd{background:none repeat scroll 0 0 #cacccc;}table.data thead th.even{background:none repeat scroll 0 0 #a6aaab;}#datalinks{background:none repeat scroll 0 0 #d7dadb;}#ucr-main #page_content #col_2 #ab_wrapper{background:none repeat scroll 0 0 rgba(0,0,0,0);border:medium none!important;margin-top:0;min-height:100%;width:420px;}#ucr-main #page_content #col_1,#ucr-main #page_content #col_1 #content_main{width:496px;}#ucr-main #maincolumn #primary-items li a{color:#FFFFFF;}.documentContent li a,.documentContent a,.documentContent p a{border-bottom:medium none;color:#000000;text-decoration:none;}#ucr-main #maincolumn.threeacross #sub-items .okitem a,#ucr-main #maincolumn #sub-items .subitem,#ucr-main #maincolumn #sub-items .subitemlast a,#ucr-right a,#ucr-main #maincolumn #sub-items .subitem a{color:#0E2544;}#ucr-main #maincolumn #primary-items li,#ucr-main #maincolumn.threeacross #primary-items li,#ucr-main #maincolumn #primary-items li#ok,#ucr-main #page_content #col_2 #ab_wrapper .col_header,#ucr-main #page_content #col_2 #ab_wrapper .col_header2{border-bottom:4px solid #F6C841;}.nav-black,.nav-black a,.nav-black a:visited{color:#FFFFFF;font-weight:bold;}.obj-1f62a375-fa9e-49b8-8566-1de6f74ba25c #ucr-main #page_content #col_2 #ab_wrapper #col_a{width:403px;}.obj-1f62a375-fa9e-49b8-8566-1de6f74ba25c #ucr-main #page_content #col_2 #ab_wrapper .col_header,.obj-1f62a375-fa9e-49b8-8566-1de6f74ba25c #ucr-main #page_content #col_2 #ab_wrapper{width:383px;}#ucr-navigation li{padding:11px 8px 0px;}#ucr-main #page_content #col_1{width:520px;}table.data thead th.subthead3{background:none repeat scroll 0px 0px #A6AAAB;color:#4A4949;}#ucr-main #quick_finds .qfind_item{width:127px;}#ucr-right{height:620px;}</style></head>
+<body id="visual-portal-wrapper" class="section-about-us  template-table-page-pt obj-f3972a1b-9af9-4e60-976a-ed1b2fcc020c portaltype-excelfile" dir="ltr"><div id="visual-wrapper">
+<header class="main-header">
+<nav class="navbar navbar-default navbar-fixed-top top-navigation-container">
+<div class="container-fluid">
+<div class="fbi-nav-logo">
+<a href="https://ucr.fbi.gov">FBI: UCR</a>
+</div>
+<button type="button" class="navbar-toggle"><span aria-label="Main Navigation" class="more-text">More</span> <div class="hamburger"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></div></button>
+<div class="collapse navbar-collapse" id="navbar-collapse-1">
+<ul class="navbar-left nav navbar-nav main-links">
+<li><a href="https://www.fbi.gov/">FBI.gov</a></li>
+<li><a href="https://ucr.fbi.gov/">Home</a></li>
+<li><a href="https://ucr.fbi.gov/ucr-publications">Publications</a></li>
+<li><a href="https://ucr.fbi.gov/ucr-program-data-collections">Data Collections</a></li>
+</ul>
+<ul class="navbar-right nav navbar-nav social">
+<li><a href="https://www.facebook.com/FBI"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" version="1.1" viewbox="0 0 16 16" aria-labelledby="title" role="img"><base xmlns="" href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls"/><title xmlns="">FBI — Expanded Homicide Data Table 6</title><style type="text/css">.facebook-icon{fill:#FFFFFF;}</style>
+<path class="facebook-icon" d="m15.115 0q0.36458 0 0.62499 0.26042 0.26048 0.26042 0.26048 0.62501v14.229q0 0.36458-0.26042 0.62499-0.26032 0.26048-0.62496 0.26048h-4.073v-6.1979h2.073l0.3125-2.4166h-2.3854v-1.5417q0-0.58333 0.24478-0.87501 0.24478-0.29166 0.95312-0.29166l1.2708-0.010416v-2.1563q-0.65626-0.09375-1.8542-0.09375-1.4167 0-2.2656 0.83333-0.8493 0.8341-0.8493 2.355v1.7813h-2.0834v2.4166h2.0834v6.1979h-7.6563q-0.36447 0-0.62488-0.26-0.26042-0.261-0.26042-0.625v-14.229q0-0.36513 0.26042-0.62554 0.26041-0.26042 0.625-0.26042h14.229z"></path></svg></a></li>
+<li><a href="https://delivery.fbi.gov"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="30" version="1.1" viewbox="0 0 24 16" aria-labelledby="title" role="img"><base xmlns="" href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls"/><title xmlns="">FBI — Expanded Homicide Data Table 6</title><style type="text/css">.email-icon{fill:#FFFFFF;}</style>
+<path class="email-icon" d="m24 5.1591v9.0227q0 0.75-0.62947 1.2841-0.63 0.534-1.514 0.534h-19.714q-0.8841 0-1.5135-0.534-0.6295-0.534-0.6295-1.284v-9.0229q0.58929 0.55682 1.3527 0.98864 4.8482 2.7955 6.6562 3.9205 0.76339 0.47727 1.2388 0.74432 0.47545 0.26704 1.2656 0.54545 0.79018 0.27841 1.4732 0.27841h0.01339 0.01339q0.68304 0 1.4732-0.27841 0.79018-0.27841 1.2656-0.54545 0.47545-0.26704 1.2388-0.74432 2.2768-1.3977 6.6696-3.9205 0.76339-0.44318 1.3393-0.98864zm0-3.3409q0 0.8977-0.656 1.7159t-1.634 1.3977q-5.036 2.9659-6.268 3.6932-0.13393 0.079545-0.5692 0.34659-0.43527 0.26705-0.72321 0.43182-0.28795 0.16477-0.69643 0.36932t-0.77009 0.30682-0.66964 0.10227h-0.01339-0.01339q-0.30804 0-0.66964-0.10227-0.362-0.1027-0.77-0.3073-0.409-0.2045-0.6966-0.3693-0.2879-0.1648-0.7232-0.4318-0.4352-0.2671-0.5692-0.3466-1.2187-0.7273-3.5089-2.0739t-2.7455-1.6193q-0.8304-0.4773-1.567-1.3125t-0.7366-1.5511q0-0.8864 0.5558-1.4773t1.5871-0.5909h19.714q0.871 0 1.507 0.53409 0.636 0.53411 0.636 1.2841z"></path></svg></a></li>
+<li><a href="https://www.fbi.gov/twitter"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" version="1.1" viewbox="0 0 16 16" aria-labelledby="title" role="img"><base xmlns="" href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls"/><title xmlns="">FBI — Expanded Homicide Data Table 6</title><style type="text/css">.twitter-icon{fill:#FFFFFF;}</style>
+<path class="twitter-icon" d="m16 1.9001q-0.6802 1.225-1.6446 2.0875 0.01015 0.17501 0.01015 0.52499 0 1.6249-0.38579 3.2437-0.38576 1.6189-1.1726 3.1064-0.78671 1.4875-1.8729 2.6312-1.0862 1.143-2.6191 1.825-1.533 0.681-3.2792 0.681-2.7512 0-5.0354-1.812 0.35532 0.05 0.79186 0.05 2.2843 0 4.071-1.7249-1.066-0.025-1.9086-0.80625-0.84263-0.78124-1.1573-1.9937 0.33502 0.062499 0.61929 0.062499 0.43654 0 0.86294-0.1375-1.1371-0.2882-1.8832-1.3946-0.7462-1.1062-0.7462-2.5686v-0.05q0.6903 0.475 1.4822 0.5125-0.67-0.5499-1.066-1.4375-0.3959-0.8875-0.3959-1.9249 0-1.1 0.4467-2.0374 1.2284 1.8624 2.9897 2.9811 1.7614 1.1187 3.7715 1.2437-0.081218-0.475-0.081218-0.92499 0-1.675 0.95938-2.8563 0.9595-1.1811 2.3195-1.1811 1.422 0 2.396 1.275 1.107-0.2625 2.082-0.975-0.376 1.4374-1.442 2.2249 0.944-0.1249 1.888-0.6249z"></path></svg></a></li>
+<li><a href="https://www.youtube.com/user/fbi"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" version="1.1" viewbox="0 0 16 16" aria-labelledby="title" role="img"><base xmlns="" href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls"/><title xmlns="">FBI — Expanded Homicide Data Table 6</title><style type="text/css">.youtube-icon{fill:#FFFFFF;}</style>
+<path class="youtube-icon" d="m10.192 11.107v1.884q0 0.59821-0.42106 0.59821-0.24832 0-0.48582-0.19643v-2.6875q0.23752-0.19643 0.48582-0.19643 0.42106 0 0.42106 0.59821zm3.6491 0.0089v0.41072h-0.97166v-0.41072q0-0.60714 0.48582-0.60714t0.48582 0.60714zm-10.429-1.9462h1.1552v-0.83928h-3.3685v0.83928h1.1336v5.0803h1.0796v-5.0803zm3.1093 5.0803h0.96086v-4.4107h-0.96086v3.3751q-0.32389 0.37501-0.61539 0.37501-0.19434 0-0.22672-0.1875-0.010797-0.02679-0.010797-0.3125v-3.2499h-0.96086v3.4911q0 0.4375 0.086369 0.65179 0.12956 0.33035 0.62617 0.33035 0.51822 0 1.1012-0.54464v0.48215zm4.6315-1.3214v-1.7589q0-0.6518-0.09717-0.88394-0.18354-0.5-0.76653-0.5-0.53981 0-1.004 0.48215v-1.9374h-0.96086v5.9197h0.96086v-0.42858q0.48582 0.49107 1.004 0.49107 0.58299 0 0.76653-0.49107 0.09717-0.24107 0.09717-0.89287zm3.6491-0.08929v-0.11607h-0.98246q0 0.45536-0.02159 0.54464-0.07557 0.32142-0.43186 0.32142-0.49662 0-0.49662-0.61607v-0.77679h1.9325v-0.91965q0-0.70536-0.2915-1.0357-0.42106-0.45536-1.1444-0.45536-0.73414 0-1.1552 0.45536-0.30229 0.33035-0.30229 1.0357v1.5446q0 0.70536 0.31309 1.0357 0.42106 0.45536 1.166 0.45536 0.77733 0 1.166-0.47322 0.19434-0.24107 0.22672-0.48215 0.02159-0.08036 0.02159-0.51786zm-6.5641-8.1519v-1.875q0-0.61607-0.46424-0.61607t-0.46424 0.61607v1.875q0 0.62499 0.46424 0.62499t0.46424-0.62499zm7.7625 6.7053q0 2.0893-0.2807 3.125-0.15115 0.52679-0.62618 0.88394-0.47504 0.35714-1.1012 0.41072-1.986 0.187-5.9916 0.187-4.0054 0-5.9918-0.188-0.6263-0.053-1.1067-0.41-0.48044-0.357-0.6208-0.884-0.2807-1-0.2807-3.125 0-2.0895 0.2807-3.1252 0.15116-0.5267 0.62618-0.8838 0.47502-0.3573 1.112-0.4197 1.9757-0.1786 5.9811-0.1786t5.9918 0.17858q0.62618 0.062499 1.1066 0.41965 0.48043 0.35714 0.62078 0.88394 0.2808 1 0.2808 3.125zm-10.774-11.393h1.1012l-1.3064 3.5626v2.4197h-1.0796v-2.4197q-0.1512-0.6608-0.6585-1.893-0.3995-0.9196-0.7018-1.6696h1.1444l0.7665 2.3482zm3.9946 2.9733v1.5625q0 0.72322-0.30229 1.0536-0.39946 0.45536-1.1444 0.45536-0.72334 0-1.1336-0.45536-0.3024-0.3393-0.3024-1.0536v-1.5625q0-0.71429 0.30229-1.0446 0.41026-0.45536 1.1336-0.45536 0.74494 0 1.1444 0.45536 0.30229 0.33035 0.30229 1.0446zm3.6168-1.4464v4.4554h-0.98246v-0.49107q-0.57219 0.55357-1.112 0.55357-0.49662 0-0.63698-0.33035-0.087-0.2144-0.087-0.6698v-3.5179h0.98246v3.2768q0 0.29464 0.0108 0.3125 0.03239 0.19643 0.22672 0.19643 0.2915 0 0.61539-0.38394v-3.4018h0.98246z"></path></svg></a></li>
+<li><a href="https://www.flickr.com/photos/fbi/"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" version="1.1" viewbox="0 0 16 16" aria-labelledby="title" role="img"><base xmlns="" href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls"/><title xmlns="">FBI — Expanded Homicide Data Table 6</title><style type="text/css">.flickr-icon{fill:#FFFFFF;}</style>
+<path class="flickr-icon" d="m13 0q1.239 0 2.12 0.88021 0.88 0.88029 0.88 2.1198v10q0 1.2396-0.8802 2.1198-0.881 0.88-2.12 0.88h-10q-1.2398 0-2.1201-0.88-0.8802-0.88-0.8802-2.12v-10q0-1.2395 0.88021-2.1198 0.88029-0.88015 2.1198-0.88015h10zm-5.7294 8q0-0.91667-0.64584-1.5625-0.64584-0.64584-1.5625-0.64584-0.91667 0-1.5625 0.64584-0.64576 0.64592-0.64576 1.5626 0 0.91667 0.64584 1.5625 0.64584 0.64584 1.5625 0.64584 0.91667 0 1.5625-0.64584 0.64576-0.64592 0.64576-1.5626zm5.875 0q0-0.91667-0.64584-1.5625-0.64584-0.64584-1.5625-0.64584-0.91667 0-1.5625 0.64584-0.64592 0.64592-0.64592 1.5626 0 0.91667 0.64584 1.5625 0.64584 0.64584 1.5625 0.64584 0.91667 0 1.5625-0.64584 0.64576-0.64592 0.64576-1.5626z"></path></svg></a></li>
+<li>
+<form class="navbar-form navbar-left" role="search" action="https://www.fbi.gov/@@search">
+<label for="fbi-search" class="visually-hidden">Search FBI</label>
+<input type="search" id="fbi-search" name="SearchableText" placeholder="Search FBI"/>
+<button type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" width="18" height="18"><style type="text/css">.st0{fill:#333333;}</style> <path class="st0" d="M 15.632,13.874259 12.336,10.581757 C 13.12,9.4309801 13.52,8.1523387 13.52,6.7458332 13.552,5.8507843 13.376,4.9877014 13.008,4.1246185 12.64,3.2615355 12.16,2.5422998 11.568,1.9509282 10.96,1.3755395 10.24,0.89604904 9.392,0.51245664 8.528,0.16083027 7.664,-0.01498292 6.784,0.0010001 5.888,0.03296613 5.024,0.22476233 4.16,0.54442267 3.296,0.86408301 2.56,1.3435735 1.984,1.9828942 1.408,2.6222149 0.928,3.3414506 0.56,4.1565845 0.192,4.9557353 0,5.8348013 0,6.7618162 c 0,0.927015 0.192,1.8060809 0.528,2.6371978 0.336,0.831117 0.816,1.550353 1.424,2.157707 0.608,0.607355 1.344,1.086845 2.176,1.438472 0.848,0.351626 1.728,0.527439 2.64,0.527439 1.408,0 2.672,-0.383592 3.824,-1.182743 l 3.312,3.292502 C 14.144,15.872136 14.416,16 14.768,16 15.104,16 15.392,15.872136 15.632,15.632391 15.872,15.392645 16,15.104951 16,14.769308 15.984,14.401698 15.872,14.114004 15.632,13.874259 Z M 9.808,9.7985894 C 8.992,10.59774 7.984,11.013299 6.784,11.061248 5.552,11.093214 4.544,10.677655 3.728,9.7985894 2.912,8.9195235 2.496,7.9125935 2.448,6.7458332 2.432,5.595056 2.848,4.5881259 3.712,3.725043 4.576,2.8619601 5.6,2.4304187 6.768,2.4464017 c 1.168,0.015983 2.176,0.4475245 3.024,1.2786413 0.848,0.8311169 1.28,1.838047 1.28,3.0207902 -0.048,1.2466753 -0.448,2.2536054 -1.264,3.0527562 z" alt="Submit Search"></path></svg></button>
+</form>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="wrap header-wrap">
+<div class="container">
+<div class="brand"> <a href="../"> <img src="/images/fbi.png" alt="Federal Bureau of Investigation" title="Federal Bureau of Investigation"/> <span>Federal Bureau of Investigation</span> </a> </div>
+</div>
+</div>
+</header>
+<div class="main-wrapper container">
+<div class="above-content-wrapper">
+<div id="portal-breadcrumbs">
+<a href="https://ucr.fbi.gov"><font color="#b71318">Home</font></a>
+<span class="breadcrumbSeparator">
+•
+</span>
+<span dir="ltr">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s">Crime in the U.S.</a>
+<span class="breadcrumbSeparator">
+•
+</span>
+</span>
+<span dir="ltr">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013">2013</a>
+<span class="breadcrumbSeparator">
+•
+</span>
+</span>
+<span dir="ltr">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013">Crime in the U.S. 2013</a>
+<span class="breadcrumbSeparator">
+•
+</span>
+</span>
+<span dir="ltr">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement">Offenses Known to Law Enforcement</a>
+<span class="breadcrumbSeparator">
+•
+</span>
+</span>
+<span dir="ltr">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide">Expanded Homicide</a>
+<span class="breadcrumbSeparator">
+•
+</span>
+</span>
+<span dir="ltr">
+<span>Expanded Homicide Data Table 6</span>
+</span>
+</div></div>
+<div class="row" id="main-content-container" dynamic-grid="">
+<div class="col-xs-12 col-sm-12" id="main-content">
+<div class="content_border_wrapper">
+<div class="">
+<div id="region-content" class="documentContent">
+<span id="contentTopLeft"></span>
+<span id="contentTopRight"></span>
+<a name="documentContent" id="documentContent"></a>
+<dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+<dt>Info</dt>
+<dd></dd>
+</dl>
+<div id="viewlet-above-content">
+<div id="portlets-above" class="row">
+</div>
+</div>
+<div id="content">
+<div id="ucr-main">
+<div id="top-image">
+<img src="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/banner"/>
+<div class="below-image"><table width="937" border="0" cellpadding="0" cellspacing="0" style="background-color: black; ">
+<tbody><tr>
+<td width="547" class="nav-black"><a href="/about-us/cjis">Criminal Justice Information Services Division</a></td>
+<td width="350" class="nav-black">
+<a href="http://forms.fbi.gov/ucr-feedback-2013">Feedback</a> |
+<a href="/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/resource-pages/contact-us">Contact Us</a> |
+<a href="https://ucr.fbi.gov/data-quality-guidelines-new">Data Quality Guidelines</a> |
+<a href="/about-us/cjis/ucr">UCR Home</a></td>
+</tr>
+</tbody></table></div>
+</div>
+<span class="visualClear"></span>
+<div id="ucr-navigation">
+<ul>
+<li class="first ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/cius-home">CIUS Home</a>
+</li>
+<li class=" ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/offenses-known-to-law-enforcement">Offenses Known to Law Enforcement</a>
+</li>
+<li class=" ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/violent-crime/violent-crime-topic-page/violentcrimemain_final">Violent Crime</a>
+</li>
+<li class=" ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/property-crime/property-crime-topic-page/propertycrimemain_final">Property Crime</a>
+</li>
+<li class=" ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/clearances/clearances">Clearances</a>
+</li>
+<li class=" ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/persons-arrested/persons-arrested">Persons Arrested</a>
+</li>
+<li class=" ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/police-employee-data/police-empolyee-data">Police Employee Data</a>
+</li>
+<li class="last ">
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/about-cius/about-cius">About CIUS</a>
+</li>
+</ul>
+</div>
+<div id="page_content" class="f3972a1b-9af9-4e60-976a-ed1b2fcc020c">
+<div class="header-container">
+<div id="nav_return">
+</div>
+<h1 class="top-header">Expanded Homicide Data Table 6</h1>
+</div>
+<div id="tablecontainer">
+<div id="dataheader">
+<b>Murder </b>
+<p id="extraheadings-0">Race, Ethnicity, and Sex of Victim by Race, Ethnicity, and Sex of Offender, 2013</p>
+<p id="extraheadings-1">[Single victim/single offender]</p>
+</div>
+<div id="datalinks">
+<ul>
+<li>
+<a href="https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2013.xls/output.xls">Download Excel</a>
+</li>
+</ul>
+</div>
+<div id="table-data-container">
+<table class="data" cellspacing="0" cellpadding="0" border="0" summary="Efforts have been made to make this data table accessible for screen readers; however, if your reader has difficulty with this table, the Excel spreadsheet version is available. Access Key D will take you to the download area.">
+<thead>
+<tr>
+<th id="cell40" class="even group0 alignleft valignmentbottom subthead1" rowspan="2" colspan="1" scope="col" headers="">
+Race of victim</th>
+<th id="cell41" class="odd group1 alignright valignmentbottom subthead2" rowspan="2" colspan="1" scope="col" headers="">
+Total</th>
+<th id="cell42" class="even group2 aligncenter valignmentmiddle subthead1" rowspan="1" colspan="4" scope="col" headers="">
+Race of offender</th>
+<th id="cell46" class="odd group3 aligncenter valignmentmiddle subthead2" rowspan="1" colspan="3" scope="col" headers="">
+Sex of offender</th>
+<th id="cell49" class="even group4 aligncenter valignmentmiddle subthead1" rowspan="1" colspan="3" scope="col" headers="">
+Ethnicity of offender<sup>1</sup></th>
+</tr>
+<tr>
+<th id="cell52" class="even group2 aligncenter valignmentbottom subthead1" rowspan="1" colspan="1" scope="col" headers="cell42">
+White</th>
+<th id="cell53" class="even group2 aligncenter valignmentbottom subthead1" rowspan="1" colspan="1" scope="col" headers="cell42">
+Black or<br/>African<br/>American</th>
+<th id="cell54" class="even group2 aligncenter valignmentbottom subthead1" rowspan="1" colspan="1" scope="col" headers="cell42">
+Other<sup>1</sup></th>
+<th id="cell55" class="even group2 aligncenter valignmentbottom subthead1" rowspan="1" colspan="1" scope="col" headers="cell42">
+Unknown</th>
+<th id="cell56" class="odd group3 aligncenter valignmentbottom subthead2" rowspan="1" colspan="1" scope="col" headers="cell46">
+Male</th>
+<th id="cell57" class="odd group3 aligncenter valignmentbottom subthead2" rowspan="1" colspan="1" scope="col" headers="cell46">
+Female</th>
+<th id="cell58" class="odd group3 aligncenter valignmentbottom subthead2" rowspan="1" colspan="1" scope="col" headers="cell46">
+Unknown</th>
+<th id="cell59" class="even group4 aligncenter valignmentbottom subthead1" rowspan="1" colspan="1" scope="col" headers="cell49">
+Hispanic<br/>or Latino</th>
+<th id="cell510" class="even group4 aligncenter valignmentbottom subthead1" rowspan="1" colspan="1" scope="col" headers="cell49">
+Not<br/>Hispanic<br/>or Latino</th>
+<th id="cell511" class="even group4 aligncenter valignmentbottom subthead1" rowspan="1" colspan="1" scope="col" headers="cell49">
+Unknown</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th id="cell60" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+White </th>
+<td id="cell61" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell60">
+3,005</td>
+<td id="cell62" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell60">
+2,509</td>
+<td id="cell63" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell60">
+409</td>
+<td id="cell64" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell60">
+49</td>
+<td id="cell65" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell60">
+38</td>
+<td id="cell66" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell60">
+2,661</td>
+<td id="cell67" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell60">
+306</td>
+<td id="cell68" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell60">
+38</td>
+<td id="cell69" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell60">
+532</td>
+<td id="cell610" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell60">
+945</td>
+<td id="cell611" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell60">
+1,528</td>
+</tr>
+<tr>
+<th id="cell70" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Black or African American</th>
+<td id="cell71" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell70">
+2,491</td>
+<td id="cell72" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell70">
+189</td>
+<td id="cell73" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell70">
+2,245</td>
+<td id="cell74" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell70">
+20</td>
+<td id="cell75" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell70">
+37</td>
+<td id="cell76" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell70">
+2,217</td>
+<td id="cell77" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell70">
+237</td>
+<td id="cell78" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell70">
+37</td>
+<td id="cell79" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell70">
+76</td>
+<td id="cell710" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell70">
+807</td>
+<td id="cell711" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell70">
+1,608</td>
+</tr>
+<tr>
+<th id="cell80" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Other race<sup>2</sup> </th>
+<td id="cell81" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell80">
+159</td>
+<td id="cell82" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell80">
+32</td>
+<td id="cell83" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell80">
+27</td>
+<td id="cell84" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell80">
+96</td>
+<td id="cell85" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell80">
+4</td>
+<td id="cell86" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell80">
+142</td>
+<td id="cell87" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell80">
+13</td>
+<td id="cell88" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell80">
+4</td>
+<td id="cell89" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell80">
+10</td>
+<td id="cell810" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell80">
+63</td>
+<td id="cell811" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell80">
+86</td>
+</tr>
+<tr>
+<th id="cell90" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Unknown race</th>
+<td id="cell91" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell90">
+68</td>
+<td id="cell92" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell90">
+25</td>
+<td id="cell93" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell90">
+17</td>
+<td id="cell94" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell90">
+3</td>
+<td id="cell95" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell90">
+23</td>
+<td id="cell96" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell90">
+38</td>
+<td id="cell97" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell90">
+7</td>
+<td id="cell98" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell90">
+23</td>
+<td id="cell99" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell90">
+3</td>
+<td id="cell910" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell90">
+14</td>
+<td id="cell911" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell90">
+51</td>
+</tr>
+<tr>
+<th id="cell100" class="even group0 alignleft valignmentbottom" rowspan="2" colspan="1" scope="row" headers="cell40">
+Sex of victim</th>
+<th id="cell101" class="odd group1 alignright valignmentbottom" rowspan="2" colspan="1" headers="cell41 cell100">
+Total</th>
+<th id="cell102" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="4" headers="cell42 cell52 cell53 cell54 cell55 cell100">
+Race of offender</th>
+<td id="cell106" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="3" headers="cell46 cell56 cell57 cell58 cell100">
+Sex of offender</td>
+<td id="cell109" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="3" headers="cell49 cell59 cell510 cell511 cell100">
+Ethnicity of offender<sup>1</sup></td>
+</tr>
+<tr>
+<th id="cell112" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell42 cell52 cell100">
+White</th>
+<td id="cell113" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell42 cell53 cell100">
+Black or<br/>African<br/>American</td>
+<td id="cell114" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell42 cell54 cell100">
+Other<sup>1</sup></td>
+<td id="cell115" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell42 cell55 cell100">
+Unknown</td>
+<td id="cell116" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell46 cell56 cell100">
+Male</td>
+<td id="cell117" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell46 cell57 cell100">
+Female</td>
+<td id="cell118" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell46 cell58 cell100">
+Unknown</td>
+<td id="cell119" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell49 cell59 cell100">
+Hispanic<br/>or Latino</td>
+<td id="cell1110" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell49 cell510 cell100">
+Not<br/>Hispanic<br/>or Latino</td>
+<td id="cell1111" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell49 cell511 cell100">
+Unknown</td>
+</tr>
+<tr>
+<th id="cell120" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Male </th>
+<td id="cell121" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell120">
+3,976</td>
+<td id="cell122" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell120">
+1,739</td>
+<td id="cell123" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell120">
+2,073</td>
+<td id="cell124" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell120">
+103</td>
+<td id="cell125" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell120">
+61</td>
+<td id="cell126" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell120">
+3,505</td>
+<td id="cell127" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell120">
+410</td>
+<td id="cell128" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell120">
+61</td>
+<td id="cell129" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell120">
+459</td>
+<td id="cell1210" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell120">
+1,253</td>
+<td id="cell1211" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell120">
+2,264</td>
+</tr>
+<tr>
+<th id="cell130" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Female </th>
+<td id="cell131" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell130">
+1,679</td>
+<td id="cell132" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell130">
+991</td>
+<td id="cell133" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell130">
+608</td>
+<td id="cell134" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell130">
+62</td>
+<td id="cell135" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell130">
+18</td>
+<td id="cell136" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell130">
+1,515</td>
+<td id="cell137" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell130">
+146</td>
+<td id="cell138" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell130">
+18</td>
+<td id="cell139" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell130">
+159</td>
+<td id="cell1310" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell130">
+562</td>
+<td id="cell1311" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell130">
+958</td>
+</tr>
+<tr>
+<th id="cell140" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Unknown sex</th>
+<td id="cell141" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell140">
+68</td>
+<td id="cell142" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell140">
+25</td>
+<td id="cell143" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell140">
+17</td>
+<td id="cell144" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell140">
+3</td>
+<td id="cell145" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell140">
+23</td>
+<td id="cell146" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell140">
+38</td>
+<td id="cell147" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell140">
+7</td>
+<td id="cell148" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell140">
+23</td>
+<td id="cell149" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell140">
+3</td>
+<td id="cell1410" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell140">
+14</td>
+<td id="cell1411" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell140">
+51</td>
+</tr>
+<tr>
+<th id="cell150" class="even group0 valignmentbottom" rowspan="2" colspan="1" scope="row" headers="cell40">
+Ethnicity of victim</th>
+<th id="cell151" class="odd group1 alignright valignmentbottom" rowspan="2" colspan="1" headers="cell41 cell150">
+Total</th>
+<th id="cell152" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="4" headers="cell42 cell52 cell53 cell54 cell55 cell150">
+Race of offender</th>
+<td id="cell156" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="3" headers="cell46 cell56 cell57 cell58 cell150">
+Sex of offender</td>
+<td id="cell159" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="3" headers="cell49 cell59 cell510 cell511 cell150">
+Ethnicity of offender<sup>1</sup></td>
+</tr>
+<tr>
+<th id="cell162" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell42 cell52 cell150">
+White</th>
+<td id="cell163" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell42 cell53 cell150">
+Black or<br/>African<br/>American</td>
+<td id="cell164" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell42 cell54 cell150">
+Other<sup>1</sup></td>
+<td id="cell165" class="even group2 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell42 cell55 cell150">
+Unknown</td>
+<td id="cell166" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell46 cell56 cell150">
+Male</td>
+<td id="cell167" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell46 cell57 cell150">
+Female</td>
+<td id="cell168" class="odd group3 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell46 cell58 cell150">
+Unknown</td>
+<td id="cell169" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell49 cell59 cell150">
+Hispanic<br/>or Latino</td>
+<td id="cell1610" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell49 cell510 cell150">
+Not<br/>Hispanic<br/>or Latino</td>
+<td id="cell1611" class="even group4 aligncenter valignmentbottom" rowspan="1" colspan="1" headers="cell49 cell511 cell150">
+Unknown</td>
+</tr>
+<tr>
+<th id="cell170" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Hispanic or Latino</th>
+<td id="cell171" class="odd group1 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell170">
+588</td>
+<td id="cell172" class="even group2 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell170">
+486</td>
+<td id="cell173" class="even group2 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell170">
+87</td>
+<td id="cell174" class="even group2 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell170">
+10</td>
+<td id="cell175" class="even group2 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell170">
+5</td>
+<td id="cell176" class="odd group3 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell170">
+542</td>
+<td id="cell177" class="odd group3 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell170">
+41</td>
+<td id="cell178" class="odd group3 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell170">
+5</td>
+<td id="cell179" class="even group4 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell170">
+439</td>
+<td id="cell1710" class="even group4 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell170">
+123</td>
+<td id="cell1711" class="even group4 alignright valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell170">
+26</td>
+</tr>
+<tr>
+<th id="cell180" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Not Hispanic or Latino</th>
+<td id="cell181" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell180">
+1,891</td>
+<td id="cell182" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell180">
+877</td>
+<td id="cell183" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell180">
+928</td>
+<td id="cell184" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell180">
+69</td>
+<td id="cell185" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell180">
+17</td>
+<td id="cell186" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell180">
+1,708</td>
+<td id="cell187" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell180">
+166</td>
+<td id="cell188" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell180">
+17</td>
+<td id="cell189" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell180">
+151</td>
+<td id="cell1810" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell180">
+1,671</td>
+<td id="cell1811" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell180">
+69</td>
+</tr>
+<tr>
+<th id="cell190" class="even group0 valignmentbottom" rowspan="1" colspan="1" scope="row" headers="cell40">
+Unknown</th>
+<td id="cell191" class="odd group1 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell41 cell190">
+3,244</td>
+<td id="cell192" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell52 cell190">
+1,392</td>
+<td id="cell193" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell53 cell190">
+1,683</td>
+<td id="cell194" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell54 cell190">
+89</td>
+<td id="cell195" class="even group2 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell42 cell55 cell190">
+80</td>
+<td id="cell196" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell56 cell190">
+2,808</td>
+<td id="cell197" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell57 cell190">
+356</td>
+<td id="cell198" class="odd group3 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell46 cell58 cell190">
+80</td>
+<td id="cell199" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell59 cell190">
+31</td>
+<td id="cell1910" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell510 cell190">
+35</td>
+<td id="cell1911" class="even group4 valignmentbottom numbercell" rowspan="1" colspan="1" headers="cell49 cell511 cell190">
+3,178</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul class="tablenotes">
+<li><sup>1</sup> The ethnicity totals are representative of those agencies that provided ethnicity breakdowns. Not all agencies provide ethnicity data, therefore the race and ethnicity totals will not equal.</li>
+<li><sup>2</sup> Includes American Indian or Alaska Native; Asian; Native Hawaiian or Other Pacific Islander.</li>
+<li>NOTE: This table is based on incidents where some information about the offender is known by law enforcement; therefore, when the offender age, sex, and race are all reported as unknown, these data are excluded from the table. </li>
+</ul>
+</div>
+<div class="supporting_info">
+</div>
+</div>
+</div>
+</div>
+<div id="portlets-below" class="row">
+</div>
+<span id="contentBottomLeft"></span>
+<span id="contentBottomRight"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="main-footer">
+<div class="wrap">
+<div class="container">
+<div id="main-footer">
+<div class="footer-nav-group"><h2><a class="" href="https://ucr.fbi.gov/ucr-publications">Publications</a></h2><ul><li><a class="" href="https://ucr.fbi.gov/ucr-publications" target="_self" title="">Crime in the United States</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-publications" target="_self" title="">Law Enforcement Officers Killed and  Assaulted (LEOKA)</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-publications#Hate">Hate Crime Statistics </a></li><li><a class="" href="https://ucr.fbi.gov/ucr-publications" target="_self" title="">National Incident-Based Reporting   System (NIBRS)</a></li><li><a class="" href="https://ucr.fbi.gov/cargo-theft-2014" target="_self" title="Cargo Theft 2014">Cargo Theft 2014 (pdf)</a></li><li><a class="" href="https://ucr.fbi.gov/cargo-theft-update" target="_self" title="Cargo Theft 2013">   Cargo Theft 2013 (pdf)</a></li><li><a class="" href="https://ucr.fbi.gov/human-trafficking" target="_self" title="">Human Trafficking (pdf)</a></li></ul></div><div class="footer-nav-group"><h2 class="no-link">General Resources</h2><ul><li><a class="" href="https://ucr.fbi.gov/word">A Word About UCR Data</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-statistics-their-proper-use">UCR Statistics, Their Proper Use (pdf)</a></li><li><a class="" href="https://ucr.fbi.gov/data-quality-guidelines-new">Data Quality Guidelines</a></li><li><a class="external-link" href="http://www.ucrdatatool.gov/">UCR Data Tool</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-programsummary-of-authorities">UCR Program—Summary of Authorities</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-program-quarterly" target="_self" title="">UCR Program Quarterly</a></li><li><a class="" href="https://ucr.fbi.gov/state-program-bulletins-and-newsletters/state-program-bulletins-and-newsletters">State Program Bulletins and Newsletters </a></li><li><a class="" href="https://ucr.fbi.gov/contact-the-ucr-program">UCR Program Contacts</a></li><li><a class="" href="https://ucr.fbi.gov/state-ucr-program-contacts-1" target="_self" title="">State UCR Program Contacts</a></li><li><a class="" href="https://ucr.fbi.gov/quality-assurance" target="_self" title="">UCR Quality Assurance Review</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-related-sites">Related Sites</a></li></ul></div><div class="footer-nav-group"><h2 class="no-link">Recent Program Updates</h2><ul><li><a class="" href="https://ucr.fbi.gov/ucr-publications"> </a></li><li><a class="" href="https://ucr.fbi.gov/recent-program-updates/reporting-rape-in-2013-revised" target="_self" title="">New Rape Definition (pdf)</a></li><li><a class="" href="https://ucr.fbi.gov/recent-program-updates/new-rape-definition-frequently-asked-questions">New Rape Definition Frequently Asked   Questions (pdf)</a></li><li><a class="" href="https://ucr.fbi.gov/new-rape-fact-sheet" target="_self" title="">New Rape Fact Sheet (pdf)</a></li></ul></div><div class="footer-nav-group"><h2><a class="" href="https://ucr.fbi.gov/ucr-program-data-collections">Data Collections</a></h2><ul><li><a class="" href="https://ucr.fbi.gov/ucr-program-data-collections#National">National Incident-Based Reporting   System (NIBRS) </a></li><li><a class="" href="https://ucr.fbi.gov/ucr-program-data-collections#Summary">Summary Reporting System (SRS)</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-program-data-collections#Law">Law Enforcement Officers Killed and   Assaulted (LEOKA)</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-program-data-collections" target="_self" title="">Hate Crime Statistics</a></li><li><a class="" href="https://ucr.fbi.gov/ucr-program-data-collections#Cargo">Cargo Theft</a></li></ul></div><div class="footer-nav-group"><h2 class="no-link">Documentation</h2><ul><li><a class="" href="https://ucr.fbi.gov/technical-specifications">Technical Specifications</a></li><li><a class="" href="https://ucr.fbi.gov/user-manuals">User Manuals</a></li></ul></div><div class="footer-nav-group"><h2 class="no-link">More</h2><ul><li><a class="" href="https://ucr.fbi.gov/leoka-resources" target="_self" title="">Overview</a></li><li><a class="" href="https://ucr.fbi.gov/nibrs-overview" target="_self" title="">NIBRS Overview</a></li><li><a class="" href="https://ucr.fbi.gov/nibrs-overview" target="_self" title=""></a></li></ul></div>
+<div class="clearfix"> </div>
+</div>
+<div class="row" id="sub-footer">
+<div class="col-lg-12">
+<ul>
+<li> <a href="https://www.fbi.gov/accessibility">Accessibility</a> </li>
+<li> <a href="https://www.regulations.gov/">eRulemaking</a> </li>
+<li> <a href="https://www.fbi.gov/services/records-management/foia">Freedom of Information Act</a> </li>
+<li> <a href="https://www.fbi.gov/legalnotices">Legal Notices</a> </li>
+<li> <a href="https://www.justice.gov/legalpolicies">Legal Policies and Disclaimers</a> </li>
+<li> <a href="https://www.fbi.gov/links">Links</a> </li>
+<li> <a href="https://www.fbi.gov/privacy_policy">Privacy Policy</a> </li>
+<li> <a href="https://www.usa.gov/">USA.gov</a> </li>
+<li> <a href="https://www.whitehouse.gov/">White House</a> </li>
+</ul>
+<p>FBI.gov is an official site of the U.S. government, U.S. Department of Justice</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div><div id="mobile-navigation-wrapper">
+<form class="navbar-form navbar-left" role="search" action="https://www.fbi.gov/@@search">
+<label for="mobile-fbi-search" class="visually-hidden">Search FBI</label>
+<input type="search" id="mobile-fbi-search" name="SearchableText" placeholder="Search FBI"/>
+<button type="submit">
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" width="18" height="18"><style type="text/css">.st1{fill:#a9a9a9;}</style> <path class="st1" d="M 15.632,13.874259 12.336,10.581757 C 13.12,9.4309801 13.52,8.1523387 13.52,6.7458332 13.552,5.8507843 13.376,4.9877014 13.008,4.1246185 12.64,3.2615355 12.16,2.5422998 11.568,1.9509282 10.96,1.3755395 10.24,0.89604904 9.392,0.51245664 8.528,0.16083027 7.664,-0.01498292 6.784,0.0010001 5.888,0.03296613 5.024,0.22476233 4.16,0.54442267 3.296,0.86408301 2.56,1.3435735 1.984,1.9828942 1.408,2.6222149 0.928,3.3414506 0.56,4.1565845 0.192,4.9557353 0,5.8348013 0,6.7618162 c 0,0.927015 0.192,1.8060809 0.528,2.6371978 0.336,0.831117 0.816,1.550353 1.424,2.157707 0.608,0.607355 1.344,1.086845 2.176,1.438472 0.848,0.351626 1.728,0.527439 2.64,0.527439 1.408,0 2.672,-0.383592 3.824,-1.182743 l 3.312,3.292502 C 14.144,15.872136 14.416,16 14.768,16 15.104,16 15.392,15.872136 15.632,15.632391 15.872,15.392645 16,15.104951 16,14.769308 15.984,14.401698 15.872,14.114004 15.632,13.874259 Z M 9.808,9.7985894 C 8.992,10.59774 7.984,11.013299 6.784,11.061248 5.552,11.093214 4.544,10.677655 3.728,9.7985894 2.912,8.9195235 2.496,7.9125935 2.448,6.7458332 2.432,5.595056 2.848,4.5881259 3.712,3.725043 4.576,2.8619601 5.6,2.4304187 6.768,2.4464017 c 1.168,0.015983 2.176,0.4475245 3.024,1.2786413 0.848,0.8311169 1.28,1.838047 1.28,3.0207902 -0.048,1.2466753 -0.448,2.2536054 -1.264,3.0527562 z" alt="Submit Search"></path>
+</svg>
+</button>
+</form>
+<ul class="mobile-links">
+<li><a href="https://ucr.fbi.gov/">Home</a></li>
+<li><a href="https://www.fbi.gov/">FBI.gov</a></li>
+<li><a href="https://ucr.fbi.gov/ucr-publications">Publications</a></li>
+<li><a href="https://ucr.fbi.gov/ucr-program-data-collections">Data Collections</a></li>
+</ul>
+</div><script>
+require = function(){
+  // noop
+}
+</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script><script src="/js/compiled.min.js?v=116"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2724552-24', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>
